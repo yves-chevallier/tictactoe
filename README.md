@@ -1,5 +1,7 @@
 # Tic Tac Toe
 
+![Preview](screenshot.png)
+
 ## Ubuntu
 
 ```bash
